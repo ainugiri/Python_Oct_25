@@ -51,3 +51,16 @@ IDE:
 5. Desktop applications
 6. Network programming
 '''
+
+
+1. NumPy - Numerical Python
+- perform mathematical and logical operations on arrays
+- multi-dimensional arrays and matrices
+- mathematical functions
+- data analysis and manipulation
+- statistical operations
+- pip install numpy
+- import numpy as np
+- np.array(), np.zeros(), np.ones(), np.arange(), np.linspace()
+- np.mean(), np.median(), np.std(), np.var()
+- list - collections of items (different types), numpy - homogeneous data (same type)
